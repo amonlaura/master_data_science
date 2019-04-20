@@ -1,1 +1,1 @@
-# master_data_science
+# Master in Data Science
